@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "175445573038",
+    "firebase_url": "https://signup-1da63-default-rtdb.firebaseio.com",
+    "project_id": "signup-1da63",
+    "storage_bucket": "signup-1da63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175445573038:android:5a618b07a1812e12ac9c3f",
+        "android_client_info": {
+          "package_name": "com.example.addcal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175445573038-9i33g9trug1unlrb79rq9uersti0so8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuOw7FaiFyNhl8r73SkI2gZXjjygotPvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175445573038-9i33g9trug1unlrb79rq9uersti0so8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175445573038:android:2d88485001b59229ac9c3f",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175445573038-9i33g9trug1unlrb79rq9uersti0so8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuOw7FaiFyNhl8r73SkI2gZXjjygotPvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175445573038-9i33g9trug1unlrb79rq9uersti0so8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175445573038:android:4e6badd376f74433ac9c3f",
+        "android_client_info": {
+          "package_name": "com.example.wemeethere"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175445573038-9i33g9trug1unlrb79rq9uersti0so8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuOw7FaiFyNhl8r73SkI2gZXjjygotPvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175445573038-9i33g9trug1unlrb79rq9uersti0so8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
